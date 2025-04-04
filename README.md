@@ -1,17 +1,14 @@
-# the Platform MasterDashboard Frontend - Welcome Chatbot
-The Welcome Chatbot is a personalized AI Assistant dedicated to helping new users learn more about the Platform and it's different modules by asking questions that pertain to Next-Gen Forge. 
+# the Platform - Welcome Chatbot
+The Welcome Chatbot is a personalized AI Assistant dedicated to helping new users learn more about the Platform and it's different modules by asking questions that pertain to the Platform. 
 
 # UI
 ![image](https://github.com/user-attachments/assets/cfb716de-e23a-4262-93e4-51755a0b4b05)
-
-# Branches
-(1) FullstackMasterDashboard/master-java-angular: This contains the Angular frontend for the Main Dashboard. It provides a UI for users to access the chatbot from the master dashboard homepage.
 
 # Installation Steps
 Steps to run the Angular Frontend:
 
 (1) Clone the chatbot branch via: <br>
-`git clone -b "master-welcomebot-csharp-angular" https://github.com/NextGenerationForge/FullstackMasterDashboard/tree/master-welcomebot-csharp-angular
+`git clone -b chatbot https://github.com/User826/chatbot.git`
 
 (2) Set API key as Environment Variable
  
